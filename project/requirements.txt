@@ -1,0 +1,11 @@
+aiohttp
+alembic
+asyncpg
+bcrypt
+databases
+gunicorn
+loguru
+psycopg2-binary
+pydantic
+PyJWT
+SQLAlchemy
